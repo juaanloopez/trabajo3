@@ -1,0 +1,61 @@
+#tablas{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin: auto;
+}
+
+table td{
+    border: 1px solid black;
+    margin: 10px;
+}
+
+tbody:active{
+    background-color: yellow;
+}
+
+#tabla1 tr{
+    border: 1px solid black;
+    margin: 10px;
+}
+
+#tabla1 th{
+    border: 1px solid black;
+    margin: 10px;
+}
+
+#tabla2 th{
+    border: 1px solid black;
+    margin: 10px;
+}
+
+#tabla3 thead{
+    background-color: red;
+    color: white;
+}
+
+#tabla3 tfoot{
+    background-color: #40ff00;
+    color: white;
+}
+
+#tabla4{
+    width: 100%;
+    margin: 10px;
+}
+
+#tabla4 thead{
+    background-color: #ff0000;
+    color: white;
+}
+
+#tabla4 tfoot{
+    background-color: #40ff00;
+    color: white;
+}
+
+#tabla5 th{
+    border: 1px solid black;
+    margin: 10px;
+}
